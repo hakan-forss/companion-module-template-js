@@ -1,7 +1,9 @@
 module.exports = async function (self) {
 	self.setVariableDefinitions([
-		{ variableId: 'variable1', name: 'My first variable' },
-		{ variableId: 'variable2', name: 'My second variable' },
-		{ variableId: 'variable3', name: 'Another variable' },
+		{ variableId: 'gameperiod', name: 'Game Period' },
+		{ variableId: 'homescore', name: 'Home Score' },
+		{ variableId: 'visitscore', name: 'Visitors Score' },
+		{ variableId: 'hometol', name: 'Home Timeouts left' },
+		{ variableId: 'visittol', name: 'Visitors Timeouts left' },
 	])
 }

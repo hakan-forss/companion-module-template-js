@@ -1,20 +1,44 @@
 module.exports = function (self) {
 	self.setActionDefinitions({
-		sample_action: {
-			name: 'My First Action',
+		setHomeScore_action: {
+			name: 'Set Home Score',
 			options: [
 				{
-					id: 'num',
+					id: 'setHomeScore',
 					type: 'number',
-					label: 'Test',
-					default: 5,
+					label: 'Score',
+					default: 0,
 					min: 0,
 					max: 100,
 				},
 			],
 			callback: async (event) => {
-				console.log('Hello world!', event.options.num)
+				self.setVariableValues({
+					'homescore': event.options.setHomeScore
+				})
+				self.updateOutput()
 			},
 		},
+
+		setVisitScore_action: {
+			name: 'Set Visit Score',
+			options: [
+				{
+					id: 'setVisitScore',
+					type: 'number',
+					label: 'Score',
+					default: 0,
+					min: 0,
+					max: 100,
+				},
+			],
+			callback: async (event) => {
+				self.setVariableValues({
+					'visitscore': event.options.setVisitScore
+				})
+				self.updateOutput()
+			},
+		},
+
 	})
 }

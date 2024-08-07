@@ -12,7 +12,9 @@
 		"url": "git+https://github.com/bitfocus/companion-module-flowbehave-scoreflow.git"
 	},
 	"dependencies": {
-		"@companion-module/base": "~1.7.0"
+		"@companion-module/base": "~1.7.0",
+		"json2csv": "^6.0.0-alpha.2",
+		"xml2js": "^0.6.2"
 	},
 	"devDependencies": {
 		"@companion-module/tools": "^1.4.2"

@@ -1,0 +1,673 @@
+<output>
+  <vnamelong>Stockholm Mean Machines</vnamelong>
+  <vnameshort>SMM</vnameshort>
+  <vrecordoverall></vrecordoverall>
+  <vconference></vconference>
+  <vrecordconference></vrecordconference>
+  <vmascot>Mean Machines</vmascot>
+  <vlogo>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\vlogo.PNG</vlogo>
+  <vcolor>#FFFFFF</vcolor>
+  <vtwitter></vtwitter>
+  <vranking></vranking>
+  <vcoachname></vcoachname>
+  <vcoachyear></vcoachyear>
+  <hnamelong>Carlstad Crusaders</hnamelong>
+  <hnameshort>CC</hnameshort>
+  <hrecordoverall></hrecordoverall>
+  <hconference></hconference>
+  <hrecordconference></hrecordconference>
+  <hmascot>Crusaders</hmascot>
+  <hlogo>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\hlogo.PNG</hlogo>
+  <hcolor>#FF0000</hcolor>
+  <htwitter></htwitter>
+  <hranking></hranking>
+  <hcoachname></hcoachname>
+  <hcoachyear></hcoachyear>
+  <date>2024-04-13</date>
+  <start>15:00</start>
+  <venue>Zinkensdamm IP</venue>
+  <city>Stockholm, Sweden</city>
+  <weather></weather>
+  <announcer1></announcer1>
+  <announcer2></announcer2>
+  <announcer3></announcer3>
+  <announcer1twitter></announcer1twitter>
+  <announcer2twitter></announcer2twitter>
+  <announcer3twitter></announcer3twitter>
+  <companyname></companyname>
+  <companywebsite></companywebsite>
+  <companycopyright></companycopyright>
+  <companylogo>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\companylogo.PNG</companylogo>
+  <companyfacebook></companyfacebook>
+  <companytwitter></companytwitter>
+  <homekeys1></homekeys1>
+  <homekeys2></homekeys2>
+  <homekeys3></homekeys3>
+  <visitkeys1></visitkeys1>
+  <visitkeys2></visitkeys2>
+  <visitkeys3></visitkeys3>
+  <vscore>22</vscore>
+  <hscore>51</hscore>
+  <period>4</period>
+  <periodshort>F</periodshort>
+  <periodlong>Final</periodlong>
+  <vlinescorecurrent>8</vlinescorecurrent>
+  <hlinescorecurrent>8</hlinescorecurrent>
+  <vstatA>15</vstatA>
+  <hstatA>14</hstatA>
+  <vlinestatAcurrent>5</vlinestatAcurrent>
+  <hlinestatAcurrent>0</hlinestatAcurrent>
+  <vstatB>0</vstatB>
+  <hstatB>0</hstatB>
+  <vlinestatBcurrent>0</vlinestatBcurrent>
+  <hlinestatBcurrent>0</hlinestatBcurrent>
+  <vtol>3</vtol>
+  <htol>2</htol>
+  <toggle1>SMM</toggle1>
+  <toggle1alternate>CC</toggle1alternate>
+  <toggle1raw>true</toggle1raw>
+  <toggle1name>Possession</toggle1name>
+  <toggle1image>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle1true.PNG</toggle1image>
+  <toggle1imagealternate>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle1false.PNG</toggle1imagealternate>
+  <toggle2></toggle2>
+  <toggle2alternate>FLAG</toggle2alternate>
+  <toggle2raw>false</toggle2raw>
+  <toggle2name>Flag</toggle2name>
+  <toggle2image>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle2false.PNG</toggle2image>
+  <toggle2imagealternate>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle2true.PNG</toggle2imagealternate>
+  <toggle3></toggle3>
+  <toggle3alternate>TOUCHDOWN</toggle3alternate>
+  <toggle3raw>false</toggle3raw>
+  <toggle3name>Touchdown</toggle3name>
+  <toggle3image>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle3false.PNG</toggle3image>
+  <toggle3imagealternate>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle3true.PNG</toggle3imagealternate>
+  <toggle4></toggle4>
+  <toggle4alternate>IT'S GOOD</toggle4alternate>
+  <toggle4raw>false</toggle4raw>
+  <toggle4name>It's Good</toggle4name>
+  <toggle4image>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle4false.PNG</toggle4image>
+  <toggle4imagealternate>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle4true.PNG</toggle4imagealternate>
+  <toggle5></toggle5>
+  <toggle5alternate>2-PT CONVERSION</toggle5alternate>
+  <toggle5raw>false</toggle5raw>
+  <toggle5name>Two-Point Conversion</toggle5name>
+  <toggle5image>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle5false.PNG</toggle5image>
+  <toggle5imagealternate>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle5true.PNG</toggle5imagealternate>
+  <toggle6></toggle6>
+  <toggle6alternate>TIMEOUT</toggle6alternate>
+  <toggle6raw>false</toggle6raw>
+  <toggle6name>Timeout</toggle6name>
+  <toggle6image>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle6false.PNG</toggle6image>
+  <toggle6imagealternate>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle6true.PNG</toggle6imagealternate>
+  <toggle7>False</toggle7>
+  <toggle7alternate>True</toggle7alternate>
+  <toggle7raw>false</toggle7raw>
+  <toggle7name>Toggle7</toggle7name>
+  <toggle7image>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle7false.PNG</toggle7image>
+  <toggle7imagealternate>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle7true.PNG</toggle7imagealternate>
+  <toggle8>False</toggle8>
+  <toggle8alternate>True</toggle8alternate>
+  <toggle8raw>false</toggle8raw>
+  <toggle8name>Toggle8</toggle8name>
+  <toggle8image>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle8false.PNG</toggle8image>
+  <toggle8imagealternate>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle8true.PNG</toggle8imagealternate>
+  <toggle9>False</toggle9>
+  <toggle9alternate>True</toggle9alternate>
+  <toggle9raw>false</toggle9raw>
+  <toggle9name>Toggle9</toggle9name>
+  <toggle9image>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle9false.PNG</toggle9image>
+  <toggle9imagealternate>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle9true.PNG</toggle9imagealternate>
+  <toggle10>False</toggle10>
+  <toggle10alternate>True</toggle10alternate>
+  <toggle10raw>false</toggle10raw>
+  <toggle10name>Toggle10</toggle10name>
+  <toggle10image>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle10false.PNG</toggle10image>
+  <toggle10imagealternate>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle10true.PNG</toggle10imagealternate>
+  <toggle11>False</toggle11>
+  <toggle11alternate>True</toggle11alternate>
+  <toggle11raw>false</toggle11raw>
+  <toggle11name>Toggle11</toggle11name>
+  <toggle11image>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle11false.PNG</toggle11image>
+  <toggle11imagealternate>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle11true.PNG</toggle11imagealternate>
+  <toggle12>False</toggle12>
+  <toggle12alternate>True</toggle12alternate>
+  <toggle12raw>false</toggle12raw>
+  <toggle12name>Toggle12</toggle12name>
+  <toggle12image>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle12false.PNG</toggle12image>
+  <toggle12imagealternate>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle12true.PNG</toggle12imagealternate>
+  <toggle13>False</toggle13>
+  <toggle13alternate>True</toggle13alternate>
+  <toggle13raw>false</toggle13raw>
+  <toggle13name>Toggle13</toggle13name>
+  <toggle13image>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle13false.PNG</toggle13image>
+  <toggle13imagealternate>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle13true.PNG</toggle13imagealternate>
+  <toggle14>False</toggle14>
+  <toggle14alternate>True</toggle14alternate>
+  <toggle14raw>false</toggle14raw>
+  <toggle14name>Toggle14</toggle14name>
+  <toggle14image>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle14false.PNG</toggle14image>
+  <toggle14imagealternate>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle14true.PNG</toggle14imagealternate>
+  <toggle15>False</toggle15>
+  <toggle15alternate>True</toggle15alternate>
+  <toggle15raw>false</toggle15raw>
+  <toggle15name>Toggle15</toggle15name>
+  <toggle15image>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle15false.PNG</toggle15image>
+  <toggle15imagealternate>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle15true.PNG</toggle15imagealternate>
+  <toggle16>False</toggle16>
+  <toggle16alternate>True</toggle16alternate>
+  <toggle16raw>false</toggle16raw>
+  <toggle16name>Toggle16</toggle16name>
+  <toggle16image>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle16false.PNG</toggle16image>
+  <toggle16imagealternate>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle16true.PNG</toggle16imagealternate>
+  <toggle17>False</toggle17>
+  <toggle17alternate>True</toggle17alternate>
+  <toggle17raw>false</toggle17raw>
+  <toggle17name>Toggle17</toggle17name>
+  <toggle17image>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle17false.PNG</toggle17image>
+  <toggle17imagealternate>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle17true.PNG</toggle17imagealternate>
+  <toggle18>False</toggle18>
+  <toggle18alternate>True</toggle18alternate>
+  <toggle18raw>false</toggle18raw>
+  <toggle18name>Toggle18</toggle18name>
+  <toggle18image>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle18false.PNG</toggle18image>
+  <toggle18imagealternate>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle18true.PNG</toggle18imagealternate>
+  <toggle19>False</toggle19>
+  <toggle19alternate>True</toggle19alternate>
+  <toggle19raw>false</toggle19raw>
+  <toggle19name>Toggle19</toggle19name>
+  <toggle19image>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle19false.PNG</toggle19image>
+  <toggle19imagealternate>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle19true.PNG</toggle19imagealternate>
+  <toggle20>False</toggle20>
+  <toggle20alternate>True</toggle20alternate>
+  <toggle20raw>false</toggle20raw>
+  <toggle20name>Toggle20</toggle20name>
+  <toggle20image>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle20false.PNG</toggle20image>
+  <toggle20imagealternate>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\toggle20true.PNG</toggle20imagealternate>
+  <period1short>1st</period1short>
+  <period2short>2nd</period2short>
+  <period3short>3rd</period3short>
+  <period4short>4th</period4short>
+  <period5short>OT</period5short>
+  <period6short>2OT</period6short>
+  <period7short>3OT</period7short>
+  <period8short></period8short>
+  <period9short></period9short>
+  <period10short></period10short>
+  <period11short></period11short>
+  <period12short></period12short>
+  <period13short></period13short>
+  <period14short></period14short>
+  <period15short></period15short>
+  <period16short></period16short>
+  <period17short></period17short>
+  <period18short></period18short>
+  <period19short></period19short>
+  <period20short></period20short>
+  <period21short></period21short>
+  <period22short></period22short>
+  <period23short></period23short>
+  <period24short></period24short>
+  <period25short></period25short>
+  <period26short></period26short>
+  <period27short></period27short>
+  <period28short></period28short>
+  <period29short></period29short>
+  <period30short></period30short>
+  <period1long>1st Quarter</period1long>
+  <period2long>2nd Quarter</period2long>
+  <period3long>3rd Quarter</period3long>
+  <period4long>4th Quarter</period4long>
+  <period5long>Overtime</period5long>
+  <period6long>Double Overtime</period6long>
+  <period7long>Triple Overtime</period7long>
+  <period8long></period8long>
+  <period9long></period9long>
+  <period10long></period10long>
+  <period11long></period11long>
+  <period12long></period12long>
+  <period13long></period13long>
+  <period14long></period14long>
+  <period15long></period15long>
+  <period16long></period16long>
+  <period17long></period17long>
+  <period18long></period18long>
+  <period19long></period19long>
+  <period20long></period20long>
+  <period21long></period21long>
+  <period22long></period22long>
+  <period23long></period23long>
+  <period24long></period24long>
+  <period25long></period25long>
+  <period26long></period26long>
+  <period27long></period27long>
+  <period28long></period28long>
+  <period29long></period29long>
+  <period30long></period30long>
+  <period1vlinescore>3</period1vlinescore>
+  <period2vlinescore>11</period2vlinescore>
+  <period3vlinescore>0</period3vlinescore>
+  <period4vlinescore>8</period4vlinescore>
+  <period5vlinescore>0</period5vlinescore>
+  <period6vlinescore>0</period6vlinescore>
+  <period7vlinescore>0</period7vlinescore>
+  <period8vlinescore>0</period8vlinescore>
+  <period9vlinescore>0</period9vlinescore>
+  <period10vlinescore>0</period10vlinescore>
+  <period11vlinescore>0</period11vlinescore>
+  <period12vlinescore>0</period12vlinescore>
+  <period13vlinescore>0</period13vlinescore>
+  <period14vlinescore>0</period14vlinescore>
+  <period15vlinescore>0</period15vlinescore>
+  <period16vlinescore>0</period16vlinescore>
+  <period17vlinescore>0</period17vlinescore>
+  <period18vlinescore>0</period18vlinescore>
+  <period19vlinescore>0</period19vlinescore>
+  <period20vlinescore>0</period20vlinescore>
+  <period21vlinescore>0</period21vlinescore>
+  <period22vlinescore>0</period22vlinescore>
+  <period23vlinescore>0</period23vlinescore>
+  <period24vlinescore>0</period24vlinescore>
+  <period25vlinescore>0</period25vlinescore>
+  <period26vlinescore>0</period26vlinescore>
+  <period27vlinescore>0</period27vlinescore>
+  <period28vlinescore>0</period28vlinescore>
+  <period29vlinescore>0</period29vlinescore>
+  <period30vlinescore>0</period30vlinescore>
+  <period1hlinescore>21</period1hlinescore>
+  <period2hlinescore>0</period2hlinescore>
+  <period3hlinescore>22</period3hlinescore>
+  <period4hlinescore>8</period4hlinescore>
+  <period5hlinescore>0</period5hlinescore>
+  <period6hlinescore>0</period6hlinescore>
+  <period7hlinescore>0</period7hlinescore>
+  <period8hlinescore>0</period8hlinescore>
+  <period9hlinescore>0</period9hlinescore>
+  <period10hlinescore>0</period10hlinescore>
+  <period11hlinescore>0</period11hlinescore>
+  <period12hlinescore>0</period12hlinescore>
+  <period13hlinescore>0</period13hlinescore>
+  <period14hlinescore>0</period14hlinescore>
+  <period15hlinescore>0</period15hlinescore>
+  <period16hlinescore>0</period16hlinescore>
+  <period17hlinescore>0</period17hlinescore>
+  <period18hlinescore>0</period18hlinescore>
+  <period19hlinescore>0</period19hlinescore>
+  <period20hlinescore>0</period20hlinescore>
+  <period21hlinescore>0</period21hlinescore>
+  <period22hlinescore>0</period22hlinescore>
+  <period23hlinescore>0</period23hlinescore>
+  <period24hlinescore>0</period24hlinescore>
+  <period25hlinescore>0</period25hlinescore>
+  <period26hlinescore>0</period26hlinescore>
+  <period27hlinescore>0</period27hlinescore>
+  <period28hlinescore>0</period28hlinescore>
+  <period29hlinescore>0</period29hlinescore>
+  <period30hlinescore>0</period30hlinescore>
+  <period1vlinestatA>1</period1vlinestatA>
+  <period2vlinestatA>7</period2vlinestatA>
+  <period3vlinestatA>2</period3vlinestatA>
+  <period4vlinestatA>5</period4vlinestatA>
+  <period5vlinestatA>0</period5vlinestatA>
+  <period6vlinestatA>0</period6vlinestatA>
+  <period7vlinestatA>0</period7vlinestatA>
+  <period8vlinestatA>0</period8vlinestatA>
+  <period9vlinestatA>0</period9vlinestatA>
+  <period10vlinestatA>0</period10vlinestatA>
+  <period11vlinestatA>0</period11vlinestatA>
+  <period12vlinestatA>0</period12vlinestatA>
+  <period13vlinestatA>0</period13vlinestatA>
+  <period14vlinestatA>0</period14vlinestatA>
+  <period15vlinestatA>0</period15vlinestatA>
+  <period16vlinestatA>0</period16vlinestatA>
+  <period17vlinestatA>0</period17vlinestatA>
+  <period18vlinestatA>0</period18vlinestatA>
+  <period19vlinestatA>0</period19vlinestatA>
+  <period20vlinestatA>0</period20vlinestatA>
+  <period21vlinestatA>0</period21vlinestatA>
+  <period22vlinestatA>0</period22vlinestatA>
+  <period23vlinestatA>0</period23vlinestatA>
+  <period24vlinestatA>0</period24vlinestatA>
+  <period25vlinestatA>0</period25vlinestatA>
+  <period26vlinestatA>0</period26vlinestatA>
+  <period27vlinestatA>0</period27vlinestatA>
+  <period28vlinestatA>0</period28vlinestatA>
+  <period29vlinestatA>0</period29vlinestatA>
+  <period30vlinestatA>0</period30vlinestatA>
+  <period1hlinestatA>10</period1hlinestatA>
+  <period2hlinestatA>2</period2hlinestatA>
+  <period3hlinestatA>2</period3hlinestatA>
+  <period4hlinestatA>0</period4hlinestatA>
+  <period5hlinestatA>0</period5hlinestatA>
+  <period6hlinestatA>0</period6hlinestatA>
+  <period7hlinestatA>0</period7hlinestatA>
+  <period8hlinestatA>0</period8hlinestatA>
+  <period9hlinestatA>0</period9hlinestatA>
+  <period10hlinestatA>0</period10hlinestatA>
+  <period11hlinestatA>0</period11hlinestatA>
+  <period12hlinestatA>0</period12hlinestatA>
+  <period13hlinestatA>0</period13hlinestatA>
+  <period14hlinestatA>0</period14hlinestatA>
+  <period15hlinestatA>0</period15hlinestatA>
+  <period16hlinestatA>0</period16hlinestatA>
+  <period17hlinestatA>0</period17hlinestatA>
+  <period18hlinestatA>0</period18hlinestatA>
+  <period19hlinestatA>0</period19hlinestatA>
+  <period20hlinestatA>0</period20hlinestatA>
+  <period21hlinestatA>0</period21hlinestatA>
+  <period22hlinestatA>0</period22hlinestatA>
+  <period23hlinestatA>0</period23hlinestatA>
+  <period24hlinestatA>0</period24hlinestatA>
+  <period25hlinestatA>0</period25hlinestatA>
+  <period26hlinestatA>0</period26hlinestatA>
+  <period27hlinestatA>0</period27hlinestatA>
+  <period28hlinestatA>0</period28hlinestatA>
+  <period29hlinestatA>0</period29hlinestatA>
+  <period30hlinestatA>0</period30hlinestatA>
+  <period1vlinestatB>0</period1vlinestatB>
+  <period2vlinestatB>0</period2vlinestatB>
+  <period3vlinestatB>0</period3vlinestatB>
+  <period4vlinestatB>0</period4vlinestatB>
+  <period5vlinestatB>0</period5vlinestatB>
+  <period6vlinestatB>0</period6vlinestatB>
+  <period7vlinestatB>0</period7vlinestatB>
+  <period8vlinestatB>0</period8vlinestatB>
+  <period9vlinestatB>0</period9vlinestatB>
+  <period10vlinestatB>0</period10vlinestatB>
+  <period11vlinestatB>0</period11vlinestatB>
+  <period12vlinestatB>0</period12vlinestatB>
+  <period13vlinestatB>0</period13vlinestatB>
+  <period14vlinestatB>0</period14vlinestatB>
+  <period15vlinestatB>0</period15vlinestatB>
+  <period16vlinestatB>0</period16vlinestatB>
+  <period17vlinestatB>0</period17vlinestatB>
+  <period18vlinestatB>0</period18vlinestatB>
+  <period19vlinestatB>0</period19vlinestatB>
+  <period20vlinestatB>0</period20vlinestatB>
+  <period21vlinestatB>0</period21vlinestatB>
+  <period22vlinestatB>0</period22vlinestatB>
+  <period23vlinestatB>0</period23vlinestatB>
+  <period24vlinestatB>0</period24vlinestatB>
+  <period25vlinestatB>0</period25vlinestatB>
+  <period26vlinestatB>0</period26vlinestatB>
+  <period27vlinestatB>0</period27vlinestatB>
+  <period28vlinestatB>0</period28vlinestatB>
+  <period29vlinestatB>0</period29vlinestatB>
+  <period30vlinestatB>0</period30vlinestatB>
+  <period1hlinestatB>0</period1hlinestatB>
+  <period2hlinestatB>0</period2hlinestatB>
+  <period3hlinestatB>0</period3hlinestatB>
+  <period4hlinestatB>0</period4hlinestatB>
+  <period5hlinestatB>0</period5hlinestatB>
+  <period6hlinestatB>0</period6hlinestatB>
+  <period7hlinestatB>0</period7hlinestatB>
+  <period8hlinestatB>0</period8hlinestatB>
+  <period9hlinestatB>0</period9hlinestatB>
+  <period10hlinestatB>0</period10hlinestatB>
+  <period11hlinestatB>0</period11hlinestatB>
+  <period12hlinestatB>0</period12hlinestatB>
+  <period13hlinestatB>0</period13hlinestatB>
+  <period14hlinestatB>0</period14hlinestatB>
+  <period15hlinestatB>0</period15hlinestatB>
+  <period16hlinestatB>0</period16hlinestatB>
+  <period17hlinestatB>0</period17hlinestatB>
+  <period18hlinestatB>0</period18hlinestatB>
+  <period19hlinestatB>0</period19hlinestatB>
+  <period20hlinestatB>0</period20hlinestatB>
+  <period21hlinestatB>0</period21hlinestatB>
+  <period22hlinestatB>0</period22hlinestatB>
+  <period23hlinestatB>0</period23hlinestatB>
+  <period24hlinestatB>0</period24hlinestatB>
+  <period25hlinestatB>0</period25hlinestatB>
+  <period26hlinestatB>0</period26hlinestatB>
+  <period27hlinestatB>0</period27hlinestatB>
+  <period28hlinestatB>0</period28hlinestatB>
+  <period29hlinestatB>0</period29hlinestatB>
+  <period30hlinestatB>0</period30hlinestatB>
+  <interstitialcontext />
+  <contextvalueitem1>Score</contextvalueitem1>
+  <contextvalueitem2>1st Downs</contextvalueitem2>
+  <contextvalueitem3>Total Yards</contextvalueitem3>
+  <contextvalueitem4>Timeouts Left</contextvalueitem4>
+  <contextvalueitem5>Down and Distance</contextvalueitem5>
+  <contextvalueitem6>Ball Spot and Kick Attempt</contextvalueitem6>
+  <contextvalueitem7>1st and</contextvalueitem7>
+  <contextvalueitem8>2nd and</contextvalueitem8>
+  <contextvalueitem9>3rd and</contextvalueitem9>
+  <contextvalueitem10>4th and</contextvalueitem10>
+  <contextvalueitem11>Inches</contextvalueitem11>
+  <contextvalueitem12>Goal</contextvalueitem12>
+  <contextvalueitem13>on the</contextvalueitem13>
+  <contextvalueitem14>Midfield</contextvalueitem14>
+  <contextvalueitem15>yard attempt</contextvalueitem15>
+  <contextvalueitem16></contextvalueitem16>
+  <contextvalueitem17></contextvalueitem17>
+  <contextvalueitem18>Games</contextvalueitem18>
+  <contextvalueitem19>Yards</contextvalueitem19>
+  <contextvalueitem20>Tackles</contextvalueitem20>
+  <specialty1>1</specialty1>
+  <specialty2>10</specialty2>
+  <specialty3>0</specialty3>
+  <specialty4>0</specialty4>
+  <tagline></tagline>
+  <marqueetext></marqueetext>
+  <sponsorcarouselname></sponsorcarouselname>
+  <sponsorcarouselphone></sponsorcarouselphone>
+  <sponsorcarouselwebsite></sponsorcarouselwebsite>
+  <sponsorcarousellogo>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\Reserved.PNG</sponsorcarousellogo>
+  <sponsorfullname></sponsorfullname>
+  <sponsorfullphone></sponsorfullphone>
+  <sponsorfullwebsite></sponsorfullwebsite>
+  <sponsorfulllogo>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\Reserved.PNG</sponsorfulllogo>
+  <baseballinningtopbottom>1st and 4th</baseballinningtopbottom>
+  <footballdownanddistance>1st and 10</footballdownanddistance>
+  <footballballspot>on the SMM 0</footballballspot>
+  <footballballspotmascot>on the Mean Machines 0</footballballspotmascot>
+  <footballredzone>false</footballredzone>
+  <footballkickattempt>100 yard attempt</footballkickattempt>
+  <visitteamisleft>true</visitteamisleft>
+  <isfinal>True</isfinal>
+  <extraminutes>0</extraminutes>
+  <homeplayer1headshot>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\Reserved.PNG</homeplayer1headshot>
+  <visitplayer1headshot>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\Reserved.PNG</visitplayer1headshot>
+  <homeplayer1uniform></homeplayer1uniform>
+  <visitplayer1uniform></visitplayer1uniform>
+  <homeplayer1name></homeplayer1name>
+  <visitplayer1name></visitplayer1name>
+  <homeplayer1firstname></homeplayer1firstname>
+  <visitplayer1firstname></visitplayer1firstname>
+  <homeplayer1lastname></homeplayer1lastname>
+  <visitplayer1lastname></visitplayer1lastname>
+  <homeplayer1position></homeplayer1position>
+  <visitplayer1position></visitplayer1position>
+  <homeplayer1year></homeplayer1year>
+  <visitplayer1year></visitplayer1year>
+  <homeplayer1height></homeplayer1height>
+  <visitplayer1height></visitplayer1height>
+  <homeplayer1weight></homeplayer1weight>
+  <visitplayer1weight></visitplayer1weight>
+  <homeplayer1misc1></homeplayer1misc1>
+  <visitplayer1misc1></visitplayer1misc1>
+  <homeplayer1misc2></homeplayer1misc2>
+  <visitplayer1misc2></visitplayer1misc2>
+  <homeplayer1misc3></homeplayer1misc3>
+  <visitplayer1misc3></visitplayer1misc3>
+  <homeplayer2headshot>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\Reserved.PNG</homeplayer2headshot>
+  <visitplayer2headshot>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\Reserved.PNG</visitplayer2headshot>
+  <homeplayer2uniform></homeplayer2uniform>
+  <visitplayer2uniform></visitplayer2uniform>
+  <homeplayer2name></homeplayer2name>
+  <visitplayer2name></visitplayer2name>
+  <homeplayer2firstname></homeplayer2firstname>
+  <visitplayer2firstname></visitplayer2firstname>
+  <homeplayer2lastname></homeplayer2lastname>
+  <visitplayer2lastname></visitplayer2lastname>
+  <homeplayer2position></homeplayer2position>
+  <visitplayer2position></visitplayer2position>
+  <homeplayer2year></homeplayer2year>
+  <visitplayer2year></visitplayer2year>
+  <homeplayer2height></homeplayer2height>
+  <visitplayer2height></visitplayer2height>
+  <homeplayer2weight></homeplayer2weight>
+  <visitplayer2weight></visitplayer2weight>
+  <homeplayer2misc1></homeplayer2misc1>
+  <visitplayer2misc1></visitplayer2misc1>
+  <homeplayer2misc2></homeplayer2misc2>
+  <visitplayer2misc2></visitplayer2misc2>
+  <homeplayer2misc3></homeplayer2misc3>
+  <visitplayer2misc3></visitplayer2misc3>
+  <homeplayer3headshot>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\Reserved.PNG</homeplayer3headshot>
+  <visitplayer3headshot>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\Reserved.PNG</visitplayer3headshot>
+  <homeplayer3uniform></homeplayer3uniform>
+  <visitplayer3uniform></visitplayer3uniform>
+  <homeplayer3name></homeplayer3name>
+  <visitplayer3name></visitplayer3name>
+  <homeplayer3firstname></homeplayer3firstname>
+  <visitplayer3firstname></visitplayer3firstname>
+  <homeplayer3lastname></homeplayer3lastname>
+  <visitplayer3lastname></visitplayer3lastname>
+  <homeplayer3position></homeplayer3position>
+  <visitplayer3position></visitplayer3position>
+  <homeplayer3year></homeplayer3year>
+  <visitplayer3year></visitplayer3year>
+  <homeplayer3height></homeplayer3height>
+  <visitplayer3height></visitplayer3height>
+  <homeplayer3weight></homeplayer3weight>
+  <visitplayer3weight></visitplayer3weight>
+  <homeplayer3misc1></homeplayer3misc1>
+  <visitplayer3misc1></visitplayer3misc1>
+  <homeplayer3misc2></homeplayer3misc2>
+  <visitplayer3misc2></visitplayer3misc2>
+  <homeplayer3misc3></homeplayer3misc3>
+  <visitplayer3misc3></visitplayer3misc3>
+  <shootoutactive>false</shootoutactive>
+  <shootoutresult></shootoutresult>
+  <hshootoutattempts>0</hshootoutattempts>
+  <hscoreshootout>0</hscoreshootout>
+  <vshootoutattempts>0</vshootoutattempts>
+  <vscoreshootout>0</vscoreshootout>
+  <sportmode1></sportmode1>
+  <sportmode2></sportmode2>
+  <sportmode3></sportmode3>
+  <hplayercount></hplayercount>
+  <vplayercount></vplayercount>
+  <counter8image1>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter8true.PNG</counter8image1>
+  <counter8image1state>true</counter8image1state>
+  <counter8image2>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter8true.PNG</counter8image2>
+  <counter8image2state>true</counter8image2state>
+  <counter8image3>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter8true.PNG</counter8image3>
+  <counter8image3state>true</counter8image3state>
+  <counter8image4>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter8false.PNG</counter8image4>
+  <counter8image4state>false</counter8image4state>
+  <counter8image5>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter8false.PNG</counter8image5>
+  <counter8image5state>false</counter8image5state>
+  <counter8image6>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter8false.PNG</counter8image6>
+  <counter8image6state>false</counter8image6state>
+  <counter8image7>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter8false.PNG</counter8image7>
+  <counter8image7state>false</counter8image7state>
+  <counter8image8>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter8false.PNG</counter8image8>
+  <counter8image8state>false</counter8image8state>
+  <counter8image9>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter8false.PNG</counter8image9>
+  <counter8image9state>false</counter8image9state>
+  <counter8image10>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter8false.PNG</counter8image10>
+  <counter8image10state>false</counter8image10state>
+  <counter9image1>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter9true.PNG</counter9image1>
+  <counter9image1state>true</counter9image1state>
+  <counter9image2>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter9true.PNG</counter9image2>
+  <counter9image2state>true</counter9image2state>
+  <counter9image3>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter9false.PNG</counter9image3>
+  <counter9image3state>false</counter9image3state>
+  <counter9image4>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter9false.PNG</counter9image4>
+  <counter9image4state>false</counter9image4state>
+  <counter9image5>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter9false.PNG</counter9image5>
+  <counter9image5state>false</counter9image5state>
+  <counter9image6>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter9false.PNG</counter9image6>
+  <counter9image6state>false</counter9image6state>
+  <counter9image7>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter9false.PNG</counter9image7>
+  <counter9image7state>false</counter9image7state>
+  <counter9image8>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter9false.PNG</counter9image8>
+  <counter9image8state>false</counter9image8state>
+  <counter9image9>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter9false.PNG</counter9image9>
+  <counter9image9state>false</counter9image9state>
+  <counter9image10>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter9false.PNG</counter9image10>
+  <counter9image10state>false</counter9image10state>
+  <counter10image1>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter10true.PNG</counter10image1>
+  <counter10image1state>true</counter10image1state>
+  <counter10image2>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter10false.PNG</counter10image2>
+  <counter10image2state>false</counter10image2state>
+  <counter10image3>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter10false.PNG</counter10image3>
+  <counter10image3state>false</counter10image3state>
+  <counter10image4>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter10false.PNG</counter10image4>
+  <counter10image4state>false</counter10image4state>
+  <counter10image5>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter10false.PNG</counter10image5>
+  <counter10image5state>false</counter10image5state>
+  <counter10image6>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter10false.PNG</counter10image6>
+  <counter10image6state>false</counter10image6state>
+  <counter10image7>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter10false.PNG</counter10image7>
+  <counter10image7state>false</counter10image7state>
+  <counter10image8>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter10false.PNG</counter10image8>
+  <counter10image8state>false</counter10image8state>
+  <counter10image9>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter10false.PNG</counter10image9>
+  <counter10image9state>false</counter10image9state>
+  <counter10image10>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter10false.PNG</counter10image10>
+  <counter10image10state>false</counter10image10state>
+  <counter11image1>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter11true.PNG</counter11image1>
+  <counter11image1state>true</counter11image1state>
+  <counter11image2>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter11true.PNG</counter11image2>
+  <counter11image2state>true</counter11image2state>
+  <counter11image3>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter11true.PNG</counter11image3>
+  <counter11image3state>true</counter11image3state>
+  <counter11image4>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter11true.PNG</counter11image4>
+  <counter11image4state>true</counter11image4state>
+  <counter11image5>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter11true.PNG</counter11image5>
+  <counter11image5state>true</counter11image5state>
+  <counter11image6>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter11true.PNG</counter11image6>
+  <counter11image6state>true</counter11image6state>
+  <counter11image7>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter11true.PNG</counter11image7>
+  <counter11image7state>true</counter11image7state>
+  <counter11image8>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter11true.PNG</counter11image8>
+  <counter11image8state>true</counter11image8state>
+  <counter11image9>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter11true.PNG</counter11image9>
+  <counter11image9state>true</counter11image9state>
+  <counter11image10>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter11true.PNG</counter11image10>
+  <counter11image10state>true</counter11image10state>
+  <counter12image1>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter12false.PNG</counter12image1>
+  <counter12image1state>false</counter12image1state>
+  <counter12image2>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter12false.PNG</counter12image2>
+  <counter12image2state>false</counter12image2state>
+  <counter12image3>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter12false.PNG</counter12image3>
+  <counter12image3state>false</counter12image3state>
+  <counter12image4>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter12false.PNG</counter12image4>
+  <counter12image4state>false</counter12image4state>
+  <counter12image5>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter12false.PNG</counter12image5>
+  <counter12image5state>false</counter12image5state>
+  <counter12image6>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter12false.PNG</counter12image6>
+  <counter12image6state>false</counter12image6state>
+  <counter12image7>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter12false.PNG</counter12image7>
+  <counter12image7state>false</counter12image7state>
+  <counter12image8>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter12false.PNG</counter12image8>
+  <counter12image8state>false</counter12image8state>
+  <counter12image9>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter12false.PNG</counter12image9>
+  <counter12image9state>false</counter12image9state>
+  <counter12image10>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter12false.PNG</counter12image10>
+  <counter12image10state>false</counter12image10state>
+  <counter13image1>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter13false.PNG</counter13image1>
+  <counter13image1state>false</counter13image1state>
+  <counter13image2>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter13false.PNG</counter13image2>
+  <counter13image2state>false</counter13image2state>
+  <counter13image3>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter13false.PNG</counter13image3>
+  <counter13image3state>false</counter13image3state>
+  <counter13image4>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter13false.PNG</counter13image4>
+  <counter13image4state>false</counter13image4state>
+  <counter13image5>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter13false.PNG</counter13image5>
+  <counter13image5state>false</counter13image5state>
+  <counter13image6>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter13false.PNG</counter13image6>
+  <counter13image6state>false</counter13image6state>
+  <counter13image7>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter13false.PNG</counter13image7>
+  <counter13image7state>false</counter13image7state>
+  <counter13image8>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter13false.PNG</counter13image8>
+  <counter13image8state>false</counter13image8state>
+  <counter13image9>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter13false.PNG</counter13image9>
+  <counter13image9state>false</counter13image9state>
+  <counter13image10>\\SCOREBOARD\SuiteCG\MultiSport Scoreboard\counter13false.PNG</counter13image10>
+  <counter13image10state>false</counter13image10state>
+</output>
