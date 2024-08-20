@@ -1,5 +1,5 @@
 const { CompanionHTTPRequest, CompanionHTTPResponse } = require('@companion-module/base')
-//const { Parser } = require('@json2csv/plainjs')
+const { Parser } = require('@json2csv/plainjs')
 
 const defaultHTTPRequest = () => {
 	return { method: 'GET', path: '', headers: {}, baseUrl: '', hostname: '', ip: '', originalUrl: '', query: {} }
@@ -7,7 +7,7 @@ const defaultHTTPRequest = () => {
 
 module.exports = function (self, request) {
 	//console.log(request);
-	console.log("Http request start");
+	//console.log("Http request start");
 	const response = {
 		status: 200,
 		headers: {
@@ -16,10 +16,23 @@ module.exports = function (self, request) {
 		body: JSON.stringify({ status: 200, message: 'Not Found !!' }),
 	}
 
-	response.body = JSON.stringify([self.scoreData.output])
+	const suiteCGCSV = '[{"label":"hscore","value":"Home.Score"},{"label":"vscore","value":"Visit.Score"},{"label":"hnameshort","value":"Home.NameShort","default":"HOM"},{"label":"vnameshort","value":"Visit.NameShort","default":"VIS"},{"label":"hrecordoverall","value":"Home.RecordOverall","default":" "},{"label":"vrecordoverall","value":"Visit.RecordOverall","default":" "},{"label":"periodshort","value":"Game.PeriodShort","default":" "},{"label":"periodlong","value":"Game.PeriodLong","default":" "},{"label":"hlogo","value":"Home.Logo","default":" "},{"label":"vlogo","value":"Visit.Logo","default":" "},{"label":"toggle6image","value":"Settings.Toggles[6].Image","default":" "},{"label":"toggle2image","value":"Settings.Toggles[7].Image","default":" "},{"label":"counter8image1","value":"Settings.Toggles[3].Image","default":" "},{"label":"counter8image2","value":"Settings.Toggles[4].Image","default":" "},{"label":"counter8image3","value":"Settings.Toggles[5].Image","default":" "},{"label":"counter9image1","value":"Settings.Toggles[0].Image","default":" "},{"label":"counter9image2","value":"Settings.Toggles[1].Image","default":" "},{"label":"counter9image3","value":"Settings.Toggles[2].Image","default":" "},{"label":"companylogo","value":"Game.BroadcasterLogo","default":" "},{"label":"footballdownand","value":"Context[0].Value","default":" "} ]'
 
-	response.status = 200
-	response.body = JSON.stringify(self.footballData)
+	outputData(self,self.scoreData)
+
+
+	function outputData(self,data) {
+		const format = request.query?.format || 'json'
+
+		if (format === 'json') {
+			response.body = JSON.stringify(data)
+			response.status = 200
+		} else if (format === 'csv') {
+			generateCSV(self,data, response)
+		} else {
+			response.body = JSON.stringify({ status: 400, message: 'Unsupported format type' })
+		}
+	}
 
 
 	/*
@@ -106,21 +119,9 @@ module.exports = function (self, request) {
 		return data
 	}
 
+*/
 
 	function generateCSV(self, data, response) {
-		const fieldsSelector = {
-			'1': self.config.fields1,
-			'2': self.config.fields2,
-			'3': self.config.fields3,
-			'4': self.config.fields4,
-			'5': self.config.fields5,
-			'6': self.config.fields6,
-			'7': self.config.fields7,
-			'8': self.config.fields8,
-			'9': self.config.fields9,
-			'10': self.config.fields10,
-			'dynamic':self.getVariableValue('dynamic_csv_fields'),
-		}
 
 		try {
 
@@ -129,10 +130,7 @@ module.exports = function (self, request) {
 			const csvOpts = {
 				header: true,
 			}
-			//console.log(fieldsSelector[reqFields])
-			if (reqFields != '0') {
-				csvOpts.fields = JSON.parse(fieldsSelector[reqFields])
-			}
+			csvOpts.fields = JSON.parse(suiteCGCSV)
 			//console.log(csvOpts)
 
 			const csvParser = new Parser(csvOpts)
@@ -145,7 +143,8 @@ module.exports = function (self, request) {
 		}
 		response.status = 200
 	}
-*/
+
+
 }
 
 
